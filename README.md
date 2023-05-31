@@ -1,2 +1,2 @@
 # Web-Design-agency-project
-This project summarize what i've learned from the last sections about CSS. The next sections im going to dive more into how to create more responsive websites.
+This project summarizes what I've learned so far from the Full Stack Course on Udemy, specifically the CSS sections. In the next sections, I'll delve deeper into creating responsive websites.
